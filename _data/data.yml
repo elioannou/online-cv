@@ -3,197 +3,130 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Eleftherios Ioannou
+    tagline: PhD candidate in Computational Physics
+    avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ei233@cam.ac.uk
+    phone: +44 7938641125
+    # website: blog.webjeda.com #do not add http://
+    skype: live:elioannou_4
+    linkedin: elioannou
+    github: elioannou
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    key: 13ED D1F9 0C2A 59EA
 
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Excellent (C2)
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Basic (A2)
         
     interests:
-      - item: Climbing
+      - item: Mathematical Modelling
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Numerical Methods
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    
+      I have recently submitted my PhD thesis and I am continuing as a
+      researcher at the Laboratory for Scientific Computing, University of
+      Cambridge. My work involves the development of mathematical models of
+      physical systems and the implementation of computational algorithms to
+      solve them numerically.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Physics
+      university: University of Cambridge
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        My research is on the numerical simulation of high speed flow in multi-material configurations that include reactive and solid (elastic-plastic) materials.
 
-          - Bullet point
-          - Bullet point 
+          - Supervised by Dr Nikolaos Nikiforakis at the Laboratory for Scientific Computing in the Physics Department.
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MSc in Scientific Computing
+      university: University of Cambridge
+      time: 2013 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The course was half taught (mostly on numerical methods and programming) and half research.
 
-          - Bullet point
-          - Bullet point 
+          - Graduated with Distinction.
+          - Thesis title: “Shock induced collapse of binary systems of cavities”.
+          - Supervised by Dr Nikolaos Nikiforakis.
+
+    - degree: BSc in Physics
+      university: National and Kapodistrian University of Athens
+      time: 2007 - 2012
+      details: |
+
+          - Grade: 8.25/10 (Ranked 3rd).
+          - Specialization filed: Astrophysics, Astronomy and Mechanics.
+          - My thesis title is “Relaxation processes in the Galactic nuclei” and I was supervised by professor Theocharis Apostolatos.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Demonstrator at practical classes
+      time: 2014 -2017
+      company: University of Cambridge
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Supervision and guidance of students performing whole-day experiments and marking their work.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Assistant
+      time: Mar -  Jun 2013
+      company: Cyprus University of Technology
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        I worked on a research project on the subject of super accelerated free-fall under the supervision of professor Evangelos Akylas.
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Detonation propagation in annular arcs of condensed phase explosives
+        authors: Ioannou, E., Schoch, S., Nikiforakis, N. and Michael, L
+        conference: Physics of Fluids, 2017
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Modeling of Detonation and Desensitization in Condensed Phase Explosives of Complex Geometry
+        authors: Ioannou, E., Nikiforakis, N. and Michael, L
+        conference: 16th IDS
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C/C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Mathematica
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Bash
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Git
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: LaTeX
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Eleftherios Ioannou &copy; 2018
