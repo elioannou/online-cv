@@ -2,12 +2,12 @@
 
 # Site Settings
 title: Eleftherios Ioannou
-#url: 'http://webjeda.com'
-# baseurl: '/online-cv' #change it according to your repository name
+url: 'http://elio.com'
+baseurl: '/online-cv' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 
 theme_skin: cerulean # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+chrome_mobile_color: #365e96 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 #analytics: UA-83979019-1

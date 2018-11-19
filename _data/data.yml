@@ -54,15 +54,15 @@ career-profile:
 
 education:
     - degree: PhD in Physics
-      university: University of Cambridge
+      university: University of Cambridge, UK
       time: 2014 - 2018
       details: |
         My research is on the numerical simulation of high speed flow in multi-material configurations that include reactive and solid (elastic-plastic) materials.
 
           - Supervised by Dr Nikolaos Nikiforakis at the Laboratory for Scientific Computing in the Physics Department.
 
-    - degree: MSc in Scientific Computing
-      university: University of Cambridge
+    - degree: MPhil in Scientific Computing
+      university: University of Cambridge, UK
       time: 2013 - 2014
       details: |
         The course was half taught (mostly on numerical methods and programming) and half research.
@@ -72,7 +72,7 @@ education:
           - Supervised by Dr Nikolaos Nikiforakis.
 
     - degree: BSc in Physics
-      university: National and Kapodistrian University of Athens
+      university: National and Kapodistrian University of Athens, Greece
       time: 2007 - 2012
       details: |
 
@@ -83,13 +83,13 @@ education:
 experiences:
     - role: Demonstrator at practical classes
       time: 2014 -2017
-      company: University of Cambridge
+      company: University of Cambridge, UK
       details: |
         Supervision and guidance of students performing whole-day experiments and marking their work.
 
     - role: Research Assistant
       time: Mar -  Jun 2013
-      company: Cyprus University of Technology
+      company: Cyprus University of Technology, Cyprus
       details: |
         I worked on a research project on the subject of super accelerated free-fall under the supervision of Professor Evangelos Akylas.
 
