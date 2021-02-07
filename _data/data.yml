@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Eleftherios Ioannou
-    tagline: PhD candidate in Computational Physics
+    tagline: PhD in Computational Physics
     avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,11 +46,10 @@ career-profile:
     title: Profile
     summary: |
     
-      I have recently submitted my PhD thesis and I am continuing as a
-      researcher at the Laboratory for Scientific Computing, University of
-      Cambridge. My work involves the development of mathematical models of
-      physical systems and the implementation of computational algorithms to
-      solve them numerically.
+      I am a postdoctoral researcher at the Laboratory for Scientific Computing,
+      University of Cambridge. My work involves the development of mathematical
+      models of physical systems and the implementation of computational
+      algorithms to solve them numerically.
 
 education:
     - degree: PhD in Physics
@@ -59,7 +58,7 @@ education:
       details: |
         My research is on the numerical simulation of high speed flow in multi-material configurations that include reactive and solid (elastic-plastic) materials.
 
-          - Supervised by Dr Nikolaos Nikiforakis at the Laboratory for Scientific Computing in the Physics Department.
+          - Supervised by Professor Nikolaos Nikiforakis at the Laboratory for Scientific Computing in the Physics Department.
 
     - degree: MPhil in Scientific Computing
       university: University of Cambridge, UK
@@ -69,7 +68,7 @@ education:
 
           - Graduated with Distinction.
           - Thesis title: “Shock induced collapse of binary systems of cavities”.
-          - Supervised by Dr Nikolaos Nikiforakis.
+          - Supervised by Professor Nikolaos Nikiforakis.
 
     - degree: BSc in Physics
       university: National and Kapodistrian University of Athens, Greece
@@ -98,13 +97,21 @@ publications:
     intro: |
 
     papers:
+      - title: Multiphysics modeling of the initiating capability of detonators. II. Booster initiation
+        authors: Ioannou E. and Nikiforakis N.
+        conference: Journal of Applied Physics, 2020
+
+      - title: Multiphysics modeling of the initiating capability of detonators. I. The underwater test
+        authors: Ioannou E. and Nikiforakis N.
+        conference: Journal of Applied Physics, 2020
+
+      - title: Meso-resolved simulations of shock-to-detonation transition in nitromethane with air-filled cavities
+        authors: Mi, X., Michael, L., Ioannou, E., Nikiforakis, N., Higgins, A.J. and Ng, H.D.
+        conference: Journal of Applied Physics, 2019
+
       - title: Detonation propagation in annular arcs of condensed phase explosives
         authors: Ioannou, E., Schoch, S., Nikiforakis, N. and Michael, L
         conference: Physics of Fluids, 2017
-
-      - title: Modeling of Detonation and Desensitization in Condensed Phase Explosives of Complex Geometry
-        authors: Ioannou, E., Nikiforakis, N. and Michael, L
-        conference: 16th IDS
 
 skills:
     title: Skills
@@ -129,4 +136,4 @@ skills:
         level: 90%
 
 footer: >
-    Eleftherios Ioannou &copy; 2018
+    Eleftherios Ioannou &copy; 2020
